@@ -1,0 +1,11 @@
+Method|Array|Node|Explanation
+Add|O(n)|O(n)|Need to loop through list to find end in both cases
+Insert|O(n)|O(n)|Need to shift everything in array, need to get to index in node
+Clear|O(1)|O(1)|Just removing all values, simple operation
+Contains|O(n)|O(n)|Looping through both, like add
+Get|O(1)|O(n)|Array you can go direct to, node you have to loop to point
+indexOf|O(n)|O(n)|Looping through both, see add
+isEmpty|O(n)|O(1)|Technically I could make the array O(1), but my implementation checks every element. Nodes I only check one.
+remove|O(n)|O(n)|Array you have to shift everything, Node you have to find the node to remove
+remove|O(n)|O(n)|Array is technically 2n, but order of n as you loop through twice. Nodes is straightfoward.
+size|O(n)|O(n)|Array you have to loop to check number of non-null elements, Nodes you need to count the nodes directly.

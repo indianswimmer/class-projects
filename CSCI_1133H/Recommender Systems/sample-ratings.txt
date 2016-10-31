@@ -1,0 +1,33 @@
+Terveen	4.5	The Hunger Games: Catching Fire
+Terveen	4	Mad Max 2
+Terveen	5	Don't Look Back
+Terveen	4	Slumdog Millionaire
+Terveen	4.5	Little Miss Sunshine
+Terveen	5	Halloween
+Terveen	4	Clerks
+Terveen	4	Back To The Future
+Terveen	5	Rushmore
+Terveen	4	High Fidelity
+Terveen	5	Twelve Monkeys
+Terveen	5	Dr. Strangelove
+Kaur	5	The Hunger Games: Catching Fire
+Kaur	2	Mad Max 2
+Kaur	4.5	Slumdog Millionaire
+Kaur	3.5	Back To The Future
+Kaur	4.5	The Shining
+Kaur	5	Serenity
+Kaur	4	Inside Out
+Kaur	1	Star Wars: Episode I - The Phantom Menace
+Kaur	5	Forrest Gump
+Kaur	3.5	Jurassic World
+Kramer	2	The Hunger Games: Catching Fire
+Kramer	2	Halloween
+Kramer	5	Clerks
+Kramer	5	Back To The Future
+Kramer	1	Rushmore
+Kramer	1	Twelve Monkeys
+Kramer	4.5	Inside Out
+Kramer	1	Star Wars: Episode I - The Phantom Menace
+Kramer	4	Forrest Gump
+Kramer	4	Jurassic World
+Kramer	4.5	The Imitation Game	

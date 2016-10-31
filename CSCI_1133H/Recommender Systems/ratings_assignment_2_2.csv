@@ -1,0 +1,941 @@
+UserId	Rating	Title
+1	4	Star Wars: Episode V - The Empire Strikes Back
+1	4	The Dark Knight
+1	5	The Lord of the Rings: The Fellowship of the Ring
+1	4.5	The Grand Budapest Hotel
+1	4	Forrest Gump
+1	4.5	Inception
+1	4	Super 8
+1	3	The Hobbit: An Unexpected Journey
+1	3.5	X-Men: Days of Future Past
+1	3	Terminator 2: Judgment Day
+1	4.5	The Matrix
+1	4.5	Looper
+1	4	Alice in Wonderland
+1	5	Gravity
+1	5	Guardians of the Galaxy
+1	4	Harry Potter and the Deathly Hallows: Part 1
+1	4	Tangled
+1	5	Captain America: The Winter Soldier
+1	4.5	Thor
+1	5	The Avengers
+1	4.5	Harry Potter and the Deathly Hallows: Part 2
+1	4	TRON: Legacy
+1	4	Star Wars: Episode IV - A New Hope
+1	4	Star Wars: Episode VI - Return of the Jedi
+1	4	Rise of the Planet of the Apes
+1	4.5	The Book of Eli
+1	3.5	Schindler's List
+1	4	The Hunger Games: Catching Fire
+1	5	Pulp Fiction
+1	4.5	Toy Story
+1	4	Django Unchained
+2	5	Apollo 13
+2	3	Alice in Wonderland
+2	4	Tangled
+2	4	Despicable Me
+2	3	Harry Potter and the Deathly Hallows: Part 2
+2	4	The King's Speech
+2	3.5	Hugo
+2	3.5	Life of Pi
+2	5	How to Train Your Dragon
+2	4	Skyfall
+2	4.5	Interstellar
+2	3.5	Toy Story 3
+3	4	The Matrix
+3	5	Toy Story 3
+3	5	Harry Potter and the Deathly Hallows: Part 1
+3	3	Moonrise Kingdom
+3	4.5	How to Train Your Dragon
+3	3	Moneyball
+3	5	Tangled
+3	5	Easy A
+3	4.5	The Hunger Games
+3	3	Interstellar
+3	4.5	Forrest Gump
+3	5	Harry Potter and the Deathly Hallows: Part 2
+3	5	Toy Story
+3	4	Captain America: The Winter Soldier
+3	4.5	The Imitation Game
+3	4	The Wolf of Wall Street
+4	4.5	Star Wars: Episode IV - A New Hope
+4	4.5	Raiders of the Lost Ark
+4	4	Jurassic Park
+4	4	The Godfather
+4	4	Apollo 13
+4	4.5	Star Wars: Episode VI - Return of the Jedi
+4	4	Fight Club
+4	4	Captain America: The First Avenger
+4	5	Pulp Fiction
+4	4.5	How to Train Your Dragon
+4	4	Tangled
+4	3.5	The Hobbit: An Unexpected Journey
+4	4.5	Toy Story
+4	5	The Silence of the Lambs
+4	5	The Lord of the Rings: The Fellowship of the Ring
+4	5	The Usual Suspects
+4	4	Thor
+4	4	The Hunger Games: Catching Fire
+4	5	The Avengers
+4	4	The Hunger Games
+4	4.5	Guardians of the Galaxy
+5	4.5	The Avengers
+5	4.5	The Social Network
+5	3	Limitless
+5	5	Toy Story
+5	5	Fight Club
+5	4.5	Gone Girl
+5	5	Captain America: The Winter Soldier
+5	4	Captain America: The First Avenger
+5	5	Jurassic Park
+5	2	Sherlock Holmes: A Game of Shadows
+5	3.5	The Hunger Games: Catching Fire
+5	4	Alice in Wonderland
+5	5	The Imitation Game
+5	4	The Perks of Being a Wallflower
+5	4.5	The Help
+5	4.5	Harry Potter and the Deathly Hallows: Part 2
+6	4	Harry Potter and the Deathly Hallows: Part 2
+6	4	Despicable Me
+6	5	Forrest Gump
+6	3.5	Tangled
+6	4.5	Interstellar
+6	4.5	Star Wars: Episode VI - Return of the Jedi
+6	5	The Shawshank Redemption
+6	4	Apollo 13
+6	4.5	The Lord of the Rings: The Fellowship of the Ring
+6	3.5	Moneyball
+6	5	Megamind
+6	3.5	Raiders of the Lost Ark
+6	4	Toy Story 3
+6	4	Guardians of the Galaxy
+6	4.5	Toy Story
+6	4.5	RED
+6	3.5	Schindler's List
+6	4	Wreck-It Ralph
+6	4	Star Wars: Episode V - The Empire Strikes Back
+6	5	How to Train Your Dragon
+6	5	Shutter Island
+6	4	The Hobbit: An Unexpected Journey
+7	3	Raiders of the Lost Ark
+7	4.5	The Hobbit: The Desolation of Smaug
+7	3	Megamind
+7	4	Forrest Gump
+7	1	Gravity
+7	4	Django Unchained
+7	3.5	The Book of Eli
+7	3	TRON: Legacy
+7	3	The Hunger Games: Catching Fire
+7	4	Harry Potter and the Deathly Hallows: Part 2
+7	4	Iron Man 2
+7	4	Toy Story
+7	4	Star Wars: Episode V - The Empire Strikes Back
+7	3.5	The Fighter
+7	3	Hugo
+7	5	The Hobbit: An Unexpected Journey
+7	2.5	Looper
+7	4	Sherlock Holmes: A Game of Shadows
+7	3.5	Thor
+7	3	Despicable Me
+7	3	Star Wars: Episode VI - Return of the Jedi
+7	4.5	Pulp Fiction
+7	4	Captain America: The Winter Soldier
+7	4	Star Wars: Episode IV - A New Hope
+7	4	Iron Man 3
+7	4	X-Men: Days of Future Past
+7	5	Kick-Ass
+7	4.5	The Dark Knight Rises
+7	5	How to Train Your Dragon
+8	4	The Hobbit: An Unexpected Journey
+8	4	Star Trek Into Darkness
+8	5	The Hunger Games
+8	5	Braveheart
+8	5	Thor
+8	3	Alice in Wonderland
+8	5	The Avengers
+8	4	Super 8
+8	5	The Perks of Being a Wallflower
+8	5	The Hobbit: The Desolation of Smaug
+8	5	Django Unchained
+8	5	The Godfather
+8	5	Toy Story 3
+8	2	Kick-Ass
+8	5	Rise of the Planet of the Apes
+8	4.5	X-Men: Days of Future Past
+8	5	Wreck-It Ralph
+8	4	Shutter Island
+8	5	Captain America: The First Avenger
+8	5	Moneyball
+8	4	The Lord of the Rings: The Fellowship of the Ring
+8	3	The Shawshank Redemption
+8	4	Forrest Gump
+8	5	Pulp Fiction
+8	4.5	Jurassic Park
+8	5	Raiders of the Lost Ark
+8	4	The Cabin in the Woods
+8	5	Iron Man 3
+8	5	Toy Story
+8	2	Easy A
+8	5	Skyfall
+8	4	Star Wars: Episode VI - Return of the Jedi
+8	4	Crazy, Stupid, Love
+8	5	The Dark Knight Rises
+8	5	Iron Man 2
+8	5	Harry Potter and the Deathly Hallows: Part 1
+8	5	The Silence of the Lambs
+8	5	The Dark Knight
+9	5	Inception
+9	4	Argo
+9	2.5	Mad Max: Fury Road
+9	4	Thor
+9	4.5	The Amazing Spider-Man
+9	3	Toy Story
+9	4	Raiders of the Lost Ark
+9	4	True Grit
+9	4	The Hobbit: The Desolation of Smaug
+9	4	The Imitation Game
+9	3	The Grand Budapest Hotel
+9	3	Hugo
+9	4.5	Skyfall
+9	4.5	Captain America: The First Avenger
+9	5	Forrest Gump
+9	5	The Shawshank Redemption
+9	4	The King's Speech
+9	3	Despicable Me
+9	4	Moneyball
+9	5	The Dark Knight
+9	4	Jurassic Park
+9	4	The Silence of the Lambs
+9	3.5	Shutter Island
+9	5	Django Unchained
+9	4.5	Iron Man 3
+9	4	The Social Network
+9	4.5	Gravity
+9	4	Life of Pi
+9	5	The Hobbit: An Unexpected Journey
+9	4.5	Braveheart
+9	5	Star Wars: Episode VI - Return of the Jedi
+9	4.5	The Lord of the Rings: The Fellowship of the Ring
+9	5	Star Wars: Episode IV - A New Hope
+9	3.5	Kick-Ass
+9	5	Harry Potter and the Deathly Hallows: Part 2
+10	2.5	The Book of Eli
+10	3.5	Looper
+10	2.5	The Amazing Spider-Man
+10	4	Interstellar
+10	4.5	True Grit
+10	4.5	Drive
+10	4	Toy Story 3
+10	4	The Dark Knight
+10	2	RED
+10	3	X-Men: First Class
+10	2	Easy A
+10	2.5	Captain America: The First Avenger
+10	3.5	Harry Potter and the Deathly Hallows: Part 2
+10	5	Moonrise Kingdom
+10	4.5	Fight Club
+10	3	The Hobbit: An Unexpected Journey
+10	4	Gone Girl
+10	2.5	Sherlock Holmes: A Game of Shadows
+10	5	The Lord of the Rings: The Fellowship of the Ring
+10	4.5	Silver Linings Playbook
+10	3.5	Terminator 2: Judgment Day
+10	5	Midnight in Paris
+10	4.5	The Social Network
+10	4.5	The Wolf of Wall Street
+10	5	The Grand Budapest Hotel
+10	3	The Perks of Being a Wallflower
+10	4.5	Toy Story
+10	3.5	Limitless
+10	2.5	Iron Man 2
+10	3	The Hobbit: The Desolation of Smaug
+10	5	The Fighter
+10	3	The Cabin in the Woods
+10	4	The King's Speech
+10	4	Django Unchained
+10	4.5	Whiplash
+11	3	Life of Pi
+11	3.5	Skyfall
+11	4	Despicable Me
+11	4.5	The Intouchables
+11	4.5	X-Men: Days of Future Past
+11	3.5	The Lord of the Rings: The Fellowship of the Ring
+11	4	Harry Potter and the Deathly Hallows: Part 1
+11	4	Star Wars: Episode V - The Empire Strikes Back
+11	2	Iron Man 2
+11	3.5	Inception
+11	5	Guardians of the Galaxy
+11	4	Thor
+11	3	Forrest Gump
+11	2.5	Drive
+11	4	Big Hero 6
+11	2.5	Captain America: The First Avenger
+11	3	Toy Story
+11	3.5	Sherlock Holmes: A Game of Shadows
+11	5	How to Train Your Dragon
+11	3.5	Captain America: The Winter Soldier
+11	3	The Hunger Games
+11	3.5	The Amazing Spider-Man
+11	2.5	Alice in Wonderland
+11	2	Megamind
+11	1.5	TRON: Legacy
+11	2	The Cabin in the Woods
+11	3	The Hunger Games: Catching Fire
+11	3.5	Star Wars: Episode IV - A New Hope
+11	3.5	Toy Story 3
+11	3	Hugo
+11	4	Star Wars: Episode VI - Return of the Jedi
+11	3.5	Raiders of the Lost Ark
+11	4	The Perks of Being a Wallflower
+11	2.5	Edge of Tomorrow
+11	4	X-Men: First Class
+11	3.5	The Avengers
+12	3	The Dark Knight Rises
+12	3	Raiders of the Lost Ark
+12	4.5	Moonrise Kingdom
+12	2.5	Forrest Gump
+12	1.5	Thor
+12	2.5	The Hunger Games
+12	3.5	Silver Linings Playbook
+12	1	The King's Speech
+12	1.5	Mission Impossible: The Ghost Protocol
+12	1.5	Alice in Wonderland
+12	4.5	The Dark Knight
+12	3.5	Jurassic Park
+12	5	Easy A
+12	4.5	The Shawshank Redemption
+12	0.5	Captain America: The First Avenger
+12	2.5	127 Hours
+12	3	Terminator 2: Judgment Day
+12	3.5	Argo
+12	2.5	Harry Potter and the Deathly Hallows: Part 1
+12	4.5	Gone Girl
+12	2.5	The Help
+12	3.5	Star Wars: Episode IV - A New Hope
+12	4	The Hobbit: An Unexpected Journey
+12	3.5	The Hunger Games: Catching Fire
+12	3.5	Interstellar
+12	4.5	Fight Club
+12	3	The Matrix
+12	4.5	Megamind
+12	4.5	Limitless
+12	3	Harry Potter and the Deathly Hallows: Part 2
+12	5	How to Train Your Dragon
+12	5	Life of Pi
+12	4	Toy Story
+12	4.5	The Grand Budapest Hotel
+12	3.5	Pulp Fiction
+12	4	Inception
+12	0.5	Tangled
+12	3.5	Django Unchained
+12	1.5	Scott Pilgrim vs. the World
+12	5	Shutter Island
+12	3	The Social Network
+12	3	The Lord of the Rings: The Fellowship of the Ring
+13	2	Moonrise Kingdom
+13	4	The Wolf of Wall Street
+13	3	Star Wars: Episode VI - Return of the Jedi
+13	4	Inception
+13	3	Easy A
+13	2	TRON: Legacy
+13	2	The Hobbit: An Unexpected Journey
+13	4	The Silence of the Lambs
+13	5	The Imitation Game
+13	3	The Hunger Games: Catching Fire
+13	2.5	The Grand Budapest Hotel
+13	4	The Hunger Games
+13	5	Interstellar
+13	5	The Help
+13	4	Toy Story 3
+13	2	Alice in Wonderland
+13	3	Despicable Me
+13	5	Mad Max: Fury Road
+13	3	The Dark Knight Rises
+14	4	Guardians of the Galaxy
+14	3.5	Star Wars: Episode V - The Empire Strikes Back
+14	4	How to Train Your Dragon
+14	3.5	Whiplash
+14	3	The Hobbit: The Desolation of Smaug
+14	4.5	The Help
+14	2.5	The Hunger Games
+14	2.5	Gravity
+14	3	Captain America: The Winter Soldier
+14	4	True Grit
+14	3	Alice in Wonderland
+14	3.5	Star Trek Into Darkness
+14	4.5	Raiders of the Lost Ark
+14	3	Skyfall
+14	3.5	The Avengers
+14	3	Life of Pi
+14	3.5	Iron Man 3
+14	4	Captain America: The First Avenger
+14	4.5	Tangled
+14	4	Toy Story 3
+14	4.5	Megamind
+14	5	Toy Story
+14	3.5	The Dark Knight
+14	4.5	The Lord of the Rings: The Fellowship of the Ring
+14	3.5	Interstellar
+14	3	TRON: Legacy
+15	4	Inception
+15	0.5	The Cabin in the Woods
+15	3	Toy Story 3
+15	2	Jurassic Park
+15	0.5	The Perks of Being a Wallflower
+15	3.5	How to Train Your Dragon
+15	1	Iron Man 2
+15	3	Toy Story
+15	2	Alice in Wonderland
+15	5	Scott Pilgrim vs. the World
+15	3.5	The Imitation Game
+15	3	Harry Potter and the Deathly Hallows: Part 2
+15	3.5	Limitless
+15	2	Raiders of the Lost Ark
+15	0.5	Mission Impossible: The Ghost Protocol
+15	0.5	RED
+15	0.5	Iron Man 3
+15	0.5	The Hunger Games: Catching Fire
+15	1	Super 8
+15	2	TRON: Legacy
+15	1	The Hunger Games
+15	3	Whiplash
+15	4	Schindler's List
+15	0.5	Captain America: The Winter Soldier
+15	1	Star Wars: Episode V - The Empire Strikes Back
+15	2.5	Shutter Island
+15	3.5	Forrest Gump
+15	2.5	The Dark Knight
+15	3	Rise of the Planet of the Apes
+15	4.5	The Silence of the Lambs
+15	2	The Social Network
+15	3.5	Django Unchained
+15	3.5	The Matrix
+15	4.5	The Shawshank Redemption
+15	2	The Fighter
+15	3.5	The Wolf of Wall Street
+16	4.5	The Matrix
+16	1.5	Thor
+16	3.5	The Lord of the Rings: The Fellowship of the Ring
+16	4	Star Wars: Episode V - The Empire Strikes Back
+16	2.5	Iron Man 2
+16	4	The Hobbit: An Unexpected Journey
+16	4.5	Terminator 2: Judgment Day
+16	3	How to Train Your Dragon
+16	3	The Hunger Games
+16	4.5	Interstellar
+16	5	Guardians of the Galaxy
+16	5	Pulp Fiction
+16	4.5	Harry Potter and the Deathly Hallows: Part 1
+16	4.5	The Wolf of Wall Street
+16	4	Life of Pi
+16	4.5	Kick-Ass
+16	4	The Godfather
+16	5	Whiplash
+16	2.5	Jurassic Park
+16	3.5	Raiders of the Lost Ark
+16	4.5	The Dark Knight
+16	4	The Cabin in the Woods
+16	4.5	The Imitation Game
+16	1	Despicable Me
+16	4	Shutter Island
+16	2	The Avengers
+16	4	Schindler's List
+16	4	Toy Story 3
+16	4	Drive
+16	5	Mad Max: Fury Road
+16	4	The Dark Knight Rises
+16	4	Harry Potter and the Deathly Hallows: Part 2
+16	4.5	The Grand Budapest Hotel
+16	5	Django Unchained
+17	4.5	How to Train Your Dragon
+17	4.5	Captain America: The First Avenger
+17	4	Raiders of the Lost Ark
+17	5	Toy Story
+17	3	Source Code
+17	3.5	TRON: Legacy
+17	5	The Dark Knight Rises
+17	5	Star Wars: Episode VI - Return of the Jedi
+17	3.5	Mission Impossible: The Ghost Protocol
+17	4.5	Guardians of the Galaxy
+17	4	Megamind
+17	4	The Hunger Games
+17	2.5	Despicable Me
+17	4	The Avengers
+17	3.5	Limitless
+17	4	The Amazing Spider-Man
+17	4	The Hobbit: An Unexpected Journey
+17	4	Moneyball
+17	2.5	Sherlock Holmes: A Game of Shadows
+17	4	Gravity
+17	5	Inception
+17	3	Thor
+17	2.5	Gone Girl
+17	3	Star Trek Into Darkness
+17	5	Argo
+17	2.5	Iron Man 2
+17	0.5	Life of Pi
+17	4.5	Toy Story 3
+17	5	Star Wars: Episode IV - A New Hope
+17	3	Scott Pilgrim vs. the World
+18	5	The Shawshank Redemption
+18	5	Harry Potter and the Deathly Hallows: Part 1
+18	4	Star Wars: Episode IV - A New Hope
+18	3.5	The Hobbit: An Unexpected Journey
+18	4	The Lord of the Rings: The Fellowship of the Ring
+18	5	Harry Potter and the Deathly Hallows: Part 2
+18	5	Forrest Gump
+18	3	Limitless
+18	5	Inception
+18	3	The Wolf of Wall Street
+18	5	The Matrix
+18	3	The Book of Eli
+18	2	Alice in Wonderland
+18	3.5	Guardians of the Galaxy
+18	4	Thor
+18	4	Star Wars: Episode VI - Return of the Jedi
+18	5	The Avengers
+18	5	Toy Story
+18	4	Terminator 2: Judgment Day
+18	4	Tangled
+18	3	Pulp Fiction
+18	3	The Hunger Games: Catching Fire
+18	4	How to Train Your Dragon
+18	4.5	Sherlock Holmes: A Game of Shadows
+18	5	Mission Impossible: The Ghost Protocol
+18	4	Toy Story 3
+19	2.5	The Hunger Games: Catching Fire
+19	4	Guardians of the Galaxy
+19	3	How to Train Your Dragon
+19	2.5	The Hunger Games
+19	2.5	The Hobbit: The Desolation of Smaug
+19	3.5	Inception
+19	4.5	Star Wars: Episode IV - A New Hope
+19	4.5	Star Wars: Episode VI - Return of the Jedi
+19	1.5	The Social Network
+19	3.5	The Dark Knight
+19	3.5	The Dark Knight Rises
+20	4	Gone Girl
+20	5	Raiders of the Lost Ark
+20	2.5	Thor
+20	2.5	Fight Club
+20	2.5	Silver Linings Playbook
+20	4.5	Captain America: The Winter Soldier
+20	4	The Hunger Games: Catching Fire
+20	4	How to Train Your Dragon
+20	4.5	Interstellar
+20	4	The Cabin in the Woods
+20	3.5	Toy Story 3
+20	4.5	Jurassic Park
+20	3.5	Iron Man 3
+20	4.5	The Lord of the Rings: The Fellowship of the Ring
+20	4	The Wolf of Wall Street
+20	3	The Social Network
+20	3.5	Toy Story
+20	3.5	The Avengers
+20	4.5	Mission Impossible: The Ghost Protocol
+20	4.5	Skyfall
+20	4	The Hobbit: An Unexpected Journey
+20	4.5	Apollo 13
+20	3.5	Django Unchained
+20	5	Star Wars: Episode IV - A New Hope
+20	2	The Adjustment Bureau
+20	2.5	Limitless
+20	3.5	TRON: Legacy
+20	4	The Silence of the Lambs
+20	5	Tangled
+20	4	Big Hero 6
+20	3	Harry Potter and the Deathly Hallows: Part 1
+20	3	The Hunger Games
+20	3.5	Life of Pi
+20	3.5	Captain America: The First Avenger
+20	2	The Perks of Being a Wallflower
+20	4	Braveheart
+20	3	Despicable Me
+20	5	Edge of Tomorrow
+20	5	Mad Max: Fury Road
+20	3	Harry Potter and the Deathly Hallows: Part 2
+20	4	X-Men: Days of Future Past
+20	4.5	Guardians of the Galaxy
+20	4	The Shawshank Redemption
+20	3.5	Pulp Fiction
+21	4.5	The Cabin in the Woods
+21	3	Terminator 2: Judgment Day
+21	4	Despicable Me
+21	4.5	Toy Story
+21	5	The Dark Knight
+21	4	Kick-Ass
+21	4.5	Harry Potter and the Deathly Hallows: Part 1
+21	5	The Shawshank Redemption
+21	3.5	Shutter Island
+21	4	The Girl with the Dragon Tattoo
+21	3.5	The Avengers
+21	4.5	The Imitation Game
+21	2.5	The Amazing Spider-Man
+21	3.5	Raiders of the Lost Ark
+21	3	The Social Network
+21	4.5	Cloud Atlas
+21	5	Toy Story 3
+21	5	True Grit
+21	5	The Silence of the Lambs
+21	4.5	Star Wars: Episode V - The Empire Strikes Back
+21	5	Fight Club
+21	4.5	The Lord of the Rings: The Fellowship of the Ring
+21	4.5	Moonrise Kingdom
+21	5	Pulp Fiction
+21	4.5	The Intouchables
+21	5	Harry Potter and the Deathly Hallows: Part 2
+21	3.5	RED
+21	3.5	Crazy, Stupid, Love
+21	4	Jurassic Park
+21	4.5	Rise of the Planet of the Apes
+21	5	The Grand Budapest Hotel
+21	4.5	Skyfall
+21	3.5	Inception
+21	3	Iron Man 3
+21	4	Big Hero 6
+21	4	Mission Impossible: The Ghost Protocol
+21	4.5	The Matrix
+21	4	Star Wars: Episode IV - A New Hope
+21	4.5	Star Wars: Episode VI - Return of the Jedi
+21	3.5	Apollo 13
+22	4	X-Men: Days of Future Past
+22	5	Captain America: The First Avenger
+22	4	Captain America: The Winter Soldier
+22	4	Jurassic Park
+22	4	Thor
+22	5	The Dark Knight Rises
+22	3.5	Toy Story
+22	4.5	Skyfall
+22	5	Despicable Me
+22	3	The Hunger Games
+22	4	Mission Impossible: The Ghost Protocol
+22	3	Rise of the Planet of the Apes
+22	4.5	Iron Man 3
+22	5	Guardians of the Galaxy
+22	2.5	Mad Max: Fury Road
+22	5	Big Hero 6
+22	5	The Avengers
+22	5	The Grand Budapest Hotel
+22	3	Life of Pi
+23	4	Cloud Atlas
+23	3.5	Jurassic Park
+23	4	Apollo 13
+23	3.5	Life of Pi
+23	4	Easy A
+23	3.5	Alice in Wonderland
+23	3	Mad Max: Fury Road
+23	3.5	Guardians of the Galaxy
+23	4	Wreck-It Ralph
+23	4.5	The Perks of Being a Wallflower
+23	4.5	The Hobbit: An Unexpected Journey
+23	4	Iron Man 3
+23	4	The Hunger Games
+23	4	The Usual Suspects
+23	3.5	Raiders of the Lost Ark
+23	4.5	The Wolf of Wall Street
+23	4.5	The Dark Knight Rises
+23	4	Toy Story 3
+23	4.5	Rise of the Planet of the Apes
+23	4.5	Despicable Me
+23	4.5	X-Men: Days of Future Past
+23	4	Captain America: The First Avenger
+23	4	The Hobbit: The Desolation of Smaug
+23	1.5	Prometheus
+23	4	Gravity
+23	4.5	Inception
+23	4.5	The Hunger Games: Catching Fire
+23	4.5	Tangled
+23	4.5	Her
+23	3.5	Captain America: The Winter Soldier
+23	4.5	Big Hero 6
+23	5	The Imitation Game
+23	2.5	Star Wars: Episode VI - Return of the Jedi
+24	4.5	Harry Potter and the Deathly Hallows: Part 2
+24	3	Star Trek Into Darkness
+24	3.5	Star Wars: Episode V - The Empire Strikes Back
+24	3.5	Terminator 2: Judgment Day
+24	4	Raiders of the Lost Ark
+24	3	How to Train Your Dragon
+24	3.5	Silver Linings Playbook
+24	3.5	Skyfall
+24	3	Despicable Me
+24	4	Star Wars: Episode VI - Return of the Jedi
+24	4	The Dark Knight
+24	4	Star Wars: Episode IV - A New Hope
+24	4	The Avengers
+24	4	The Matrix
+24	3.5	Jurassic Park
+25	3	Pulp Fiction
+25	4	The Imitation Game
+25	1.5	Wreck-It Ralph
+25	0.5	Gravity
+25	3.5	Thor
+25	4	The Hunger Games
+25	3	Life of Pi
+25	2	Despicable Me
+25	4	Star Wars: Episode V - The Empire Strikes Back
+25	4	Harry Potter and the Deathly Hallows: Part 2
+25	4	Iron Man 3
+25	3.5	Harry Potter and the Deathly Hallows: Part 1
+25	3	Megamind
+25	3	How to Train Your Dragon
+25	1.5	Iron Man 2
+25	5	The Wolf of Wall Street
+25	5	Tangled
+25	3	Super 8
+25	5	The Help
+25	5	Sherlock Holmes: A Game of Shadows
+25	5	Captain America: The First Avenger
+25	2.5	The Hunger Games: Catching Fire
+25	3.5	Source Code
+25	3.5	Crazy, Stupid, Love
+25	5	Captain America: The Winter Soldier
+25	1	The Hobbit: The Desolation of Smaug
+25	2.5	The Amazing Spider-Man
+25	5	The Avengers
+25	2	Apollo 13
+25	2.5	Star Wars: Episode VI - Return of the Jedi
+26	3	Toy Story 3
+26	4	The Dark Knight Rises
+26	3.5	Thor
+26	4	X-Men: First Class
+26	4.5	Silver Linings Playbook
+26	4	Star Wars: Episode IV - A New Hope
+26	2.5	50/50
+26	4.5	The Dark Knight
+26	2.5	Crazy, Stupid, Love
+26	4	Easy A
+26	2	TRON: Legacy
+26	4.5	Inception
+26	4	X-Men: Days of Future Past
+26	4	The Hunger Games
+26	3.5	The Wolf of Wall Street
+26	4	Skyfall
+26	4	The Lord of the Rings: The Fellowship of the Ring
+26	3	Toy Story
+26	4	Alice in Wonderland
+26	5	Harry Potter and the Deathly Hallows: Part 2
+26	4	The Hobbit: An Unexpected Journey
+26	3	Iron Man 2
+26	5	The Help
+26	4	Megamind
+26	2.5	True Grit
+26	4	Harry Potter and the Deathly Hallows: Part 1
+26	5	Rise of the Planet of the Apes
+26	5	Guardians of the Galaxy
+26	4.5	Forrest Gump
+26	4.5	The Hobbit: The Desolation of Smaug
+26	5	Captain America: The Winter Soldier
+27	5	Star Wars: Episode VI - Return of the Jedi
+27	3	Hugo
+27	4.5	Big Hero 6
+27	2.5	Iron Man 3
+27	3	Thor
+27	4	The Silence of the Lambs
+27	4.5	Despicable Me
+27	4	Scott Pilgrim vs. the World
+27	2	Iron Man 2
+27	3	Captain America: The Winter Soldier
+27	3.5	The Hobbit: The Desolation of Smaug
+27	3.5	Shutter Island
+27	4.5	Argo
+27	3.5	The Hunger Games
+27	5	Moneyball
+27	4	Apollo 13
+27	5	Moonrise Kingdom
+27	2.5	The Book of Eli
+27	3.5	Skyfall
+27	2.5	Megamind
+27	4.5	The Dark Knight
+27	5	Raiders of the Lost Ark
+27	3.5	X-Men: First Class
+27	5	The Grand Budapest Hotel
+27	3	X-Men: Days of Future Past
+27	3.5	Star Wars: Episode V - The Empire Strikes Back
+27	4.5	How to Train Your Dragon
+27	2.5	Easy A
+27	5	The Fighter
+27	4.5	Gone Girl
+27	4.5	The Imitation Game
+27	5	Toy Story 3
+27	2.5	The Lord of the Rings: The Fellowship of the Ring
+27	3.5	Super 8
+27	3	Sherlock Holmes: A Game of Shadows
+27	4	The Perks of Being a Wallflower
+27	5	Fight Club
+27	5	Star Trek Into Darkness
+27	4	Django Unchained
+27	3	Terminator 2: Judgment Day
+27	4	Schindler's List
+27	3.5	Alice in Wonderland
+27	2.5	Prometheus
+27	3.5	Braveheart
+27	3	Rise of the Planet of the Apes
+27	2	Wreck-It Ralph
+27	3	The Matrix
+27	3.5	Star Wars: Episode IV - A New Hope
+27	3.5	The Avengers
+28	5	Forrest Gump
+28	4	The Book of Eli
+28	5	The Shawshank Redemption
+28	5	The Godfather
+28	4.5	The Matrix
+28	4	The Avengers
+28	4	Captain America: The Winter Soldier
+28	3	TRON: Legacy
+28	4.5	The King's Speech
+28	3.5	Alice in Wonderland
+28	3.5	The Social Network
+28	3.5	Source Code
+28	4.5	Raiders of the Lost Ark
+28	4.5	X-Men: First Class
+28	4.5	Django Unchained
+28	4	Harry Potter and the Deathly Hallows: Part 2
+28	4.5	The Usual Suspects
+28	3.5	Drive
+28	4.5	Sherlock Holmes: A Game of Shadows
+28	4	The Town
+28	4	Mission Impossible: The Ghost Protocol
+28	4	Whiplash
+28	3	Silver Linings Playbook
+28	4	Star Trek Into Darkness
+28	4.5	The Grand Budapest Hotel
+28	3.5	127 Hours
+28	3	Crazy, Stupid, Love
+28	3.5	Her
+28	4	The Hobbit: An Unexpected Journey
+28	4	The Hobbit: The Desolation of Smaug
+28	4	Harry Potter and the Deathly Hallows: Part 1
+28	3	Easy A
+28	5	Interstellar
+28	3.5	Iron Man 3
+28	4	The Hunger Games: Catching Fire
+28	4.5	Shutter Island
+28	4	The Perks of Being a Wallflower
+28	4	The Adjustment Bureau
+28	5	Jurassic Park
+28	5	Star Wars: Episode VI - Return of the Jedi
+28	4	Guardians of the Galaxy
+28	4.5	Apollo 13
+28	4.5	Toy Story 3
+28	3.5	Gone Girl
+28	4.5	The Girl with the Dragon Tattoo
+28	4.5	Life of Pi
+28	3.5	The Fighter
+28	4	Cloud Atlas
+28	4	Birdman
+28	4.5	The Dark Knight
+28	4.5	The Help
+28	4.5	Captain America: The First Avenger
+28	3	Kick-Ass
+28	3.5	True Grit
+28	3.5	Limitless
+28	5	The Imitation Game
+28	5	Skyfall
+28	4	The Girl with the Dragon Tattoo
+28	3.5	Moonrise Kingdom
+28	4	Moneyball
+28	4	Tangled
+28	4.5	Star Wars: Episode V - The Empire Strikes Back
+28	5	Toy Story
+28	4	Iron Man 2
+28	5	Inception
+28	4.5	Star Wars: Episode IV - A New Hope
+28	4	The Intouchables
+28	4	50/50
+30	4	The Matrix
+30	4.5	Star Wars: Episode V - The Empire Strikes Back
+30	3.5	Captain America: The First Avenger
+30	4	The Lord of the Rings: The Fellowship of the Ring
+30	3	Despicable Me
+30	2	Kick-Ass
+30	4.5	The Book of Eli
+30	2.5	Scott Pilgrim vs. the World
+30	5	The Dark Knight
+30	5	Star Wars: Episode IV - A New Hope
+30	4.5	Harry Potter and the Deathly Hallows: Part 1
+30	4	Shutter Island
+30	5	Django Unchained
+30	3	The Hobbit: An Unexpected Journey
+30	4	The Amazing Spider-Man
+30	3.5	The Silence of the Lambs
+30	5	The Wolf of Wall Street
+30	4.5	The Dark Knight Rises
+30	5	Interstellar
+30	5	The Shawshank Redemption
+30	4	Star Wars: Episode VI - Return of the Jedi
+30	4.5	Jurassic Park
+30	4	Pulp Fiction
+30	4	Terminator 2: Judgment Day
+30	5	Fight Club
+30	4	Mad Max: Fury Road
+31	4	X-Men: Days of Future Past
+31	4.5	The Perks of Being a Wallflower
+31	5	Star Wars: Episode IV - A New Hope
+31	4	Rise of the Planet of the Apes
+31	5	Star Wars: Episode VI - Return of the Jedi
+31	3	Toy Story 3
+31	4	Jurassic Park
+31	4	Raiders of the Lost Ark
+31	5	Guardians of the Galaxy
+31	5	Inception
+31	4	The Hobbit: The Desolation of Smaug
+31	4	Iron Man 2
+31	5	Moonrise Kingdom
+31	4.5	The Avengers
+31	4	The Hobbit: An Unexpected Journey
+31	4.5	Despicable Me
+31	4.5	Forrest Gump
+31	3.5	Hugo
+31	4	Harry Potter and the Deathly Hallows: Part 2
+31	5	Kick-Ass
+31	4	Thor
+31	4	Captain America: The First Avenger
+31	4	Limitless
+31	4.5	Star Wars: Episode V - The Empire Strikes Back
+31	4	Toy Story
+32	5	Star Wars: Episode VI - Return of the Jedi
+32	0.5	The King's Speech
+32	4	The Wolf of Wall Street
+32	2	Prometheus
+32	3	Tangled
+32	4.5	Fight Club
+32	4	Toy Story
+32	4.5	Drive
+32	4.5	Raiders of the Lost Ark
+32	5	Star Wars: Episode V - The Empire Strikes Back
+32	3	Edge of Tomorrow
+32	4.5	The Silence of the Lambs
+32	5	The Matrix
+32	4	The Dark Knight Rises
+32	4	Mad Max: Fury Road
+32	4.5	The Shawshank Redemption
+32	4	The Hobbit: The Desolation of Smaug
+32	5	The Social Network
+32	4.5	Midnight in Paris
+32	4.5	Birdman
+32	4.5	Whiplash
+32	4	Big Hero 6
+32	3	Moonrise Kingdom
+32	3.5	Interstellar
+32	4	Life of Pi
+32	4	The Hobbit: An Unexpected Journey
+32	3.5	127 Hours
+32	5	Forrest Gump
+32	2.5	Gravity
+32	4	Django Unchained
+32	2	Iron Man 2
+32	5	Apollo 13
+32	3	Iron Man 3
+32	1.5	The Help
+32	3	Harry Potter and the Deathly Hallows: Part 2
+32	3.5	Jurassic Park
+32	4	Skyfall
+32	1.5	Easy A
+32	4	Scott Pilgrim vs. the World
+32	4	Rise of the Planet of the Apes
+32	1.5	Limitless
+32	4	Shutter Island
+32	4	True Grit
+32	5	The Lord of the Rings: The Fellowship of the Ring
+32	5	The Grand Budapest Hotel
